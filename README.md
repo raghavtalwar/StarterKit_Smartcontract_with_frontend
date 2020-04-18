@@ -12,3 +12,4 @@ To run this project
 6) Migrate the smart contract to blockchain -> $truffle migrate  (make sure you are inside the project directory)
 7) Finally run this command -> $npm run dev
 
+https://web3js.readthedocs.io/_/downloads/en/v1.2.0/pdf/ Web3 will help to invoke functions of smart contract
